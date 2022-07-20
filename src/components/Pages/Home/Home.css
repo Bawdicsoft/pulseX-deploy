@@ -1,0 +1,23 @@
+.home-div{
+    /* width: 20%!important; */
+    /* border: red solid 1px; */
+    border-radius: 5px;
+    padding: 15px;
+    text-align: left;
+}
+.first-row{
+    margin-top: 50px !important;
+
+}
+#home-container{
+    text-align: center;
+}
+
+@media screen and (min-width: 992px) {
+    
+    #home-container{
+        /* margin-top: 30px; */
+        width: 60%!important;
+        /* border: red solid 1px !important; */
+    }
+}

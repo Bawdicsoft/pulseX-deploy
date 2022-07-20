@@ -1,0 +1,31 @@
+.user-address {
+    /* border: red solid 1px; */
+    display: flex;
+    justify-content: space-between;
+}
+
+#home-container {
+    text-align: center;
+}
+
+.form-control {
+    width: 80%!important;
+    display: flex;
+    /* justify-content: space-between!important; */
+}
+
+.div-form{
+    /* border: red solid 1px; */
+    display: flex;
+    justify-content: space-between;
+}
+
+
+@media screen and (min-width: 992px) {
+    
+    #home-container{
+        /* margin-top: 30px; */
+        width: 60%!important;
+        /* border: red solid 1px !important; */
+    }
+}
